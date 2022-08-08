@@ -119,13 +119,13 @@
 
 - [ ] Fazer tarefa (X)
 
-```- espaço [espaço] espaço txt``` (Com espaço)
+```- espaço [espaço] espaço txt```
 
 * **Tarefa Concluída**
 
 - [x] Fazer tarefa (X)
 
-```- espaço [X] espaço txt``` (Com espaço)
+```- espaço [X] espaço txt```
 
 
 
