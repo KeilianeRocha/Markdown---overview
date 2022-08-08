@@ -131,7 +131,7 @@
 
 ![KeilaAvatar](https://user-images.githubusercontent.com/109313933/183428275-9a32ea80-cb00-4798-9e55-3a705ee2c4af.gif)
 
-```Arasta a imagem ou gif direto do desktop para a área de edição de txt``` 
+```Arasta a imagem para a área **Attach files by dragging & dropping selecting or pasting them**``` 
 
 (Não usar imagem muito grande! Máx 500px)
 
