@@ -191,9 +191,7 @@ _Caso o emoji não funcione no Markdowm_
 
 * #### **Citações**
 
-> Exemplo: Durante o Curso, usei o perfil do [@Gafanhotos](https://github.com/gafanhotos) para exercitar as ações em Git e Github
-
-> em construção
+> Exemplo: Durante o Curso, usei o perfil do [@gafanhotos](https://github.com/gafanhotos) para exercitar as ações em Git e Github.
 
 * #### **Referênciar alguém**
 
