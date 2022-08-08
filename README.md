@@ -179,13 +179,15 @@
  ```Txt | Txt | Txt | Txt``` (Com espaço)
  
  
- ```--- Formatação padrão à esquerda``` (sem espaço)
+ ```
+ --- Formatação padrão à esquerda``` (sem espaço)
  
- ```:--- Txt à esquerda``` (sem espaço)
+ :--- Txt à esquerda``` (sem espaço)
  
- ```:---: Txt Centralizado``` (sem espaço)
+ :---: Txt Centralizado``` (sem espaço)
  
- ```---: Txt à direita``` (sem espaço)
+ :--- Txt à direita``` (sem espaço)
+ ```
  
  
 
@@ -205,7 +207,6 @@ if num %2 == 0:
     print(f'O valor {num} é PAR')
  else:
     print(f'O valor {num} é ÍMPAR')
-
 ```
 
 ```Use três ` quebre a linha e digite o código depois, quebre a linha novamente e adicione mais três ` ```
