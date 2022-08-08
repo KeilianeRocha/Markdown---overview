@@ -4,7 +4,19 @@
  Ja dizia **Austin Kleon** No seu livro _Roube como um Artista_
  "O segredo: Faça um bom trabalho e compartilhe com as pessoas"
  
- Seguindo tudo que aprendi com as Aulas do [Curso em Video](https://www.cursoemvideo.com/), estou compartilhando esse pequeno Arquivo feito no Markdow com dicas para usar algumas configurações do Git e tornar seu README.dm pró
+ Seguindo tudo que aprendi com as Aulas do [Curso em Video](https://www.cursoemvideo.com/), estou compartilhando esse pequeno Arquivo feito no Markdow com dicas para usar algumas configurações do Git e tornar seu README.dm pró!
+ 
+ 📘 Deixo aqui algumas Referências Bibliográficas: ⤵️
+ 
+ ➡️ [Scott Chacon and Straub - Git Pro](https://www.amazon.com.br/Pro-Git-English-Scott-Chacon-ebook/dp/B01ISNIKES/ref=sr_1_1?adgrpid=127615929555&gclid=CjwKCAjw6MKXBhA5EiwANWLODBTubvrnfu9DnuMMJjZZ3GqaM3B1fxmOhvzqZW1TGfcgJ9AgUtVfTRoC_EcQAvD_BwE&hvadid=558208650145&hvdev=c&hvlocphy=1001541&hvnetw=g&hvqmt=b&hvrand=968924929994917407&hvtargid=kwd-12552409574&hydadcr=23493_13477088&keywords=pro+git&qid=1659981508&sr=8-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)
+ 
+ ➡️ Git: Você precisa aprender hoje **Maicon Santos**
+ 
+ ➡️ Guia rápido Git e Github **Jorge Brayer**
+ 
+ ❤️ Espero que gostem!
+ 
+ 
  ***
  
  ### Configurações
