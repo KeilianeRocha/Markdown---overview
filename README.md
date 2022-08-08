@@ -28,12 +28,34 @@
 
 ```**_ txt _**``` (**_Sem espaço_**)
 
-#### Linhas
+* #### Linhas
 ---
 
 ```---``` (Linha abaixo do txt)
 ***
 ```***``` (Sem espaço)
+
+* ##### Níveis de txt
+
+* # Nível 1
+
+```# txt``` (Com espaço)
+
+* ## Nível 2
+
+```## txt``` (Com espaço)
+
+* ### Nível 3
+
+```### txt``` (Com espaço)
+
+* #### Nível 4
+
+```#### txt``` (Com espaço)
+
+* ##### Nível 5
+
+```##### txt``` (Com espaço)
 
 
 
