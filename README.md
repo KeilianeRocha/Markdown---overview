@@ -158,7 +158,7 @@
 * #### **Criando Tabelas**
 
  Num | Nome | Nota 
- ---|:---|---:
+ :---:|:---:|:---:
  1 | Keila | 10,00
  
  ```Txt | Txt | Txt``` (Na linha abaixo)
@@ -166,6 +166,28 @@
  ```---|---|---``` (sem espaço)
  
  ```Txt | Txt | Txt``` (Com espaço)
+ * #### **Alinhamento**
+ 
+ Num | Nome | Nota1 | Nota2
+ ---|:---|:---:|---:
+ 1 | Keila | 10,00 |9,00
+ 
+ ```Txt | Txt | Txt | Txt``` (Na linha abaixo)
+ 
+ ```--- | :--- | :---: | ---:``` (Com espaço)
+ 
+ ```Txt | Txt | Txt | Txt``` (Com espaço)
+ 
+ 
+ ```--- Formatação padrão à esquerda``` (sem espaço)
+ 
+ ```:--- Txt à esquerda``` (sem espaço)
+ 
+ ```:---: Txt Centralizado``` (sem espaço)
+ 
+ ```---: Txt à direita``` (sem espaço)
+ 
+ 
 
 * #### **Adicionando Comando**
 
