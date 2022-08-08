@@ -193,7 +193,7 @@ _Caso o emoji não funcione no Markdowm_
 
 > em construção
 
-* #### **Pegar postagem de alguém**
+* #### **Referênciar alguém**
 
 > em construção 
 
