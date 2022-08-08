@@ -2,9 +2,9 @@
 
  ## Estou aprendendo **Markdown**
  Ja dizia **Austin Kleon** No seu livro _Roube como um Artista_
- "O segredo: Faça um bom trabalho e compartilhe com as pessoas"
+ "O segredo: Faça um bom trabalho e compartilhe com as pessoas."
  
- Seguindo tudo que aprendi com as Aulas do [Curso em Video](https://www.cursoemvideo.com/), estou compartilhando esse pequeno Arquivo feito no Markdow com dicas para usar algumas configurações do Git e tornar seu README.dm pró!
+ Seguindo tudo que aprendi com as Aulas do [Curso em Video](https://www.cursoemvideo.com/), estou compartilhando esse pequeno Arquivo feito no Markdown com dicas para usar algumas configurações do Git e tornar seu README.dm pró!
  
  📘 Deixo aqui algumas Referências Bibliográficas: ⤵️
  
@@ -249,7 +249,7 @@ _Caso o emoji não funcione no Markdowm_
 > 🤝 Se você conseguir, deixa um comentário pra eu aprender também 😊
 
 > #### **Referênciar alguém**
-> Exemplo: Analisando o documento [#Manual do Markdown para GitHub](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf) que foi indicado pelo usuário 
+> Exemplo: Analisando o documento [#Manual do Markdown para GitHub](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf) que foi indicado pelo usuário [@GustavoGuanabara](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
 
 > _Não consegui fazer como o exemplo do [@GustavoGuanabara](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)_
 > 🤝 Se você conseguir, deixa um comentário pra eu aprender também 😊
