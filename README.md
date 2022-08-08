@@ -1,6 +1,10 @@
 # Olá, Mundo!
 
  ## Estou aprendendo **Markdown**
+ Ja dizia **Austin Kleon** No seu livro _Roube como um Artista_
+ "O segredo: Faça um bom trabalho e compartilhe com as pessoas"
+ 
+ Seguindo tudo que aprendi com as Aulas do [Curso em Video](https://www.cursoemvideo.com/), estou compartilhando esse pequeno Arquivo feito no Markdow com dicas para usar algumas configurações do Git e tornar seu README.dm pró
  ***
  
  ### Configurações
