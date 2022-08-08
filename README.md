@@ -186,6 +186,18 @@ _Caso o emoji não funcione no Markdowm_
 
 ``` Escolhe a categoria, na opão `Copy and paste emoji` você copia e e cola no local desejado``` (Sem espaço)
 
+* **Citações**
+> em construção
+
+* **Pegar postagem de alguém**
+> em construção 
+
+
+
+
+
+
+
 
  
  
