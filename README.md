@@ -137,6 +137,8 @@
 > 
 > Nada é original
 
+
+
 * #### **Adicionar Imagens**
 
 ```> txt, quebra a linha e novamente > txt``` (Com espaço)
