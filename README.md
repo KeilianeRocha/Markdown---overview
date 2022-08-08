@@ -159,7 +159,9 @@
  
  ```txt `comando` txt ``` (sem espaço)
  
- * **Adicionar um programa**
+ * **Adicionar um Código**
+
+- Ex: Python
 
 ```
 num = int (input('Digite um valor:')
@@ -169,6 +171,8 @@ if num %2 == 0:
     print(f'O valor {num} é ÍMPAR')
 
 ```
+
+```Use três ` quebre a linha e digite o código depois quebre a linha novamente e adicione mais três` ```
  
  
 
