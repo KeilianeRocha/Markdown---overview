@@ -239,7 +239,7 @@ _Caso o emoji não funcione no Markdowm_
 
 ``` Escolhe a categoria, na opão `Copy and paste emoji` você copia e e cola no local desejado``` (Sem espaço)
 
-* #### **Citações**
+> #### **Citações**
 
 > Exemplo: Durante o Curso, usei o perfil do [@gafanhotos](https://github.com/gafanhotos) para exercitar as ações em Git e Github.
 
@@ -249,6 +249,7 @@ _Caso o emoji não funcione no Markdowm_
 > 🤝 Se você conseguir, deixa um comentário pra eu aprender também 😊
 
 > #### **Referênciar alguém**
+> 
 > Exemplo: Analisando o documento [#Manual do Markdown para GitHub](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf) que foi indicado pelo usuário [@GustavoGuanabara](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
 
 > _Não consegui fazer como o exemplo do [@GustavoGuanabara](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)_
