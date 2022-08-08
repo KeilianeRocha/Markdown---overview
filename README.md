@@ -178,6 +178,7 @@ if num %2 == 0:
 
 ```txt :nome do emoji``` (Sem espaço)
 
+[Link para site com Lista de emojis completa](https://unicode.org/emoji/charts/full-emoji-list.html)
 
  
  
