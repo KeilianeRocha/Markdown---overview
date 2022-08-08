@@ -172,7 +172,7 @@ if num %2 == 0:
 
 ```
 
-```Use três ` quebre a linha e digite o código depois quebre a linha novamente e adicione mais três` ```
+```Use três ` quebre a linha e digite o código depois, quebre a linha novamente e adicione mais três` ```
  
  
 
