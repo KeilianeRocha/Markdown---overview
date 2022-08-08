@@ -152,7 +152,12 @@
  ```---|---|---``` (sem espaço)
  
  ```Txt | Txt | Txt``` (Com espaço)
- 
+
+* **Adicionando Comando**
+
+ Comando `documento.getElementById()` da linguagem JavaScript
+
+
 
 
 
