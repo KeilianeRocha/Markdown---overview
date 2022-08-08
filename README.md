@@ -90,7 +90,7 @@
 
 ```Número. txt``` (Com espaço)
 
-> #### **Linha Numerada com Sub item
+> #### **Linha Numerada com Sub item**
 
 1. Teste 1
    1. Teste 2 ```(três espaços depois do Número)```
