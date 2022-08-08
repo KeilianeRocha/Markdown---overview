@@ -5,25 +5,25 @@
  
  ### Configurações
  
- > Negrito
+ > #### Negrito
 
 ```** txt **``` (**Sem espaço**)
 
 ```__ txt __``` (__Sem espaço__)
 
-> Itálico
+> #### Itálico
 
 ```* txt *``` (*Sem espaço*)
 
 ```_ txt _``` (_Sem espaço_)
 
-> Riscado
+> #### Riscado
 
 ```~~ txt ~~``` (~~Sem espaço~~)
 
 * __*Misturando Configurações*__
 
-> **Negrito** & *Itálico*
+> #### **Negrito** & *Itálico*
 
 ```__* txt *__``` (__*Sem espaço*__)
 
@@ -33,10 +33,12 @@
 ---
 
 ```---``` (Linha abaixo do txt)
+
 ***
+
 ```***``` (Sem espaço)
 
-* ##### Níveis de txt
+* #### Níveis de txt
 
 > # Nível 1
 
@@ -62,7 +64,7 @@
 
 ```###### txt``` (Com espaço)
 
-* **Lista numerada**
+* #### **Lista numerada**
 
 1. Teste
 2. Teste 2
@@ -72,17 +74,17 @@
 
 ```Número. txt``` (Com espaço)
 
-* **Linha numera sub-item
+* #### **Linha numera sub-item
 
 1. Teste
-   1. Teste 2 ```(três espaços depois do Numero)```
+   1. Teste 2 ```(três espaços depois do Número)```
 2. Teste 3
 * 2. Teste 4 ```(* depois do Número)``` (Com espaço)
 5. Teste 5
 
-* **Lista com marcadores**
+* #### **Lista com marcadores**
 
-* Teste
+* Teste 1
 * Teste 2
 * Teste 3
 * Teste 4
@@ -90,17 +92,17 @@
 
 ```* txt``` (Com espaço)
 
-* **Lista com marcadores sub-item**
+* #### **Lista com marcadores sub-item**
 
-* Teste
+* Teste 1
 * Teste 2
 * Teste 3
    * Teste 4 ```(três espaços depois do Txt)```
 * Teste 5
 
-* **Lista com marcadores**
+* #### **Lista com marcadores**
 
-- Teste
+- Teste 1
 - Teste 2
 - Teste 3
 - Teste 4
@@ -108,27 +110,27 @@
 - 
  ```- txt``` (Com espaço)
 
-* **Lista com marcadores sub-item**
+* #### **Lista com marcadores sub-item**
 
-- Teste
+- Teste 1
 - Teste 2
 - Teste 3
    - Teste 4 ```(três espaços depois do Txt)```
 - Teste 5
 
-* **Lista de tarefas**
+* #### **Lista de tarefas**
 
 > [ ] Fazer tarefa (X)
 
 ```- espaço [espaço] espaço txt```
 
-* **Tarefa Concluída**
+* #### **Tarefa Concluída**
 
 > [x] Fazer tarefa (X)
 
 ```- espaço [X] espaço txt```
 
-* **Adicionar Imagens**
+* #### **Adicionar Imagens**
 
 ![KeilaAvatar](https://user-images.githubusercontent.com/109313933/183428275-9a32ea80-cb00-4798-9e55-3a705ee2c4af.gif)
 
@@ -136,13 +138,13 @@
 
 (Não usar imagem muito grande! Máx 500px)
 
-* **Adicionar Links**
+* #### **Adicionar Links**
 
 [Acesse meu Github](https://github.com/KeilianeRocha)
 
 ```[txt](link)``` (sem espaço)
 
-* **Criando Tabelas**
+* #### **Criando Tabelas**
 
  Num | Nome | Nota 
  ---|---|---
@@ -154,13 +156,13 @@
  
  ```Txt | Txt | Txt``` (Com espaço)
 
-* **Adicionando Comando**
+* #### **Adicionando Comando**
 
  Comando `documento.getElementById()` da linguagem JavaScript
  
  ```txt `comando` txt ``` (sem espaço)
  
- * **Adicionar um Código**
+ * #### **Adicionar um Código**
 
 > Ex: Python
 
@@ -175,7 +177,7 @@ if num %2 == 0:
 
 ```Use três ` quebre a linha e digite o código depois, quebre a linha novamente e adicione mais três` ```
 
-* **Adicionar emojis 🖖**
+* #### **Adicionar emojis 🖖**
 
 ```txt :nome do emoji``` (Sem espaço)
 
@@ -187,11 +189,11 @@ _Caso o emoji não funcione no Markdowm_
 
 ``` Escolhe a categoria, na opão `Copy and paste emoji` você copia e e cola no local desejado``` (Sem espaço)
 
-* **Citações**
+* #### **Citações**
 
 > em construção
 
-* **Pegar postagem de alguém**
+* #### **Pegar postagem de alguém**
 
 > em construção 
 
