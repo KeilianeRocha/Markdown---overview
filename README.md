@@ -74,9 +74,9 @@
 * **Linha numera sub-item
 
 1. Teste
-   1. Teste 2
+   1. Teste 2 ```(três espaços depois do Numero)```
 2. Teste 3
-* 2. Teste 4
+* 2. Teste 4 ```(* depois do Número)``` (Com espaço)
 5. Teste 5
 
 
