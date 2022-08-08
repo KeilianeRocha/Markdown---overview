@@ -1,5 +1,5 @@
 # Olá Mundo!
- Primeiro repositório do Curso em Video
+ **Primeiro repositório** do *Curso em Video*
 
 Repositório criado em aula.
 
