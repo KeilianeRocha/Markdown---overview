@@ -4,25 +4,25 @@
  
  ### Configurações
  
- * **Negrito**
+ > Negrito
 
 ```** txt **``` (**Sem espaço**)
 
 ```__ txt __``` (__Sem espaço__)
 
-* *Itálico*
+> Itálico
 
 ```* txt *``` (*Sem espaço*)
 
 ```_ txt _``` (_Sem espaço_)
 
-* ~~Riscado~~
+> Riscado
 
 ```~~ txt ~~``` (~~Sem espaço~~)
 
 * __*Misturando Configurações*__
 
-* **Negrito** & *Itálico*
+> **Negrito** & *Itálico*
 
 ```__* txt *__``` (__*Sem espaço*__)
 
@@ -37,27 +37,27 @@
 
 * ##### Níveis de txt
 
-* # Nível 1
+> # Nível 1
 
 ```# txt``` (Com espaço)
 
-* ## Nível 2
+> ## Nível 2
 
 ```## txt``` (Com espaço)
 
-* ### Nível 3
+> ### Nível 3
 
 ```### txt``` (Com espaço)
 
-* #### Nível 4
+> #### Nível 4
 
 ```#### txt``` (Com espaço)
 
-* ##### Nível 5
+> ##### Nível 5
 
 ```##### txt``` (Com espaço)
 
-* ###### Nível 6
+> ###### Nível 6
 
 ```###### txt``` (Com espaço)
 
@@ -117,13 +117,13 @@
 
 * **Lista de tarefas**
 
-- [ ] Fazer tarefa (X)
+> [ ] Fazer tarefa (X)
 
 ```- espaço [espaço] espaço txt```
 
 * **Tarefa Concluída**
 
-- [x] Fazer tarefa (X)
+> [x] Fazer tarefa (X)
 
 ```- espaço [X] espaço txt```
 
@@ -161,7 +161,7 @@
  
  * **Adicionar um Código**
 
-- Ex: Python
+> Ex: Python
 
 ```
 num = int (input('Digite um valor:')
@@ -187,9 +187,11 @@ _Caso o emoji não funcione no Markdowm_
 ``` Escolhe a categoria, na opão `Copy and paste emoji` você copia e e cola no local desejado``` (Sem espaço)
 
 * **Citações**
+
 > em construção
 
 * **Pegar postagem de alguém**
+
 > em construção 
 
 
