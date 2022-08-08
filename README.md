@@ -10,7 +10,7 @@
  
  ➡️ [Scott Chacon and Straub - Git Pro](https://www.amazon.com.br/Pro-Git-English-Scott-Chacon-ebook/dp/B01ISNIKES/ref=sr_1_1?adgrpid=127615929555&gclid=CjwKCAjw6MKXBhA5EiwANWLODBTubvrnfu9DnuMMJjZZ3GqaM3B1fxmOhvzqZW1TGfcgJ9AgUtVfTRoC_EcQAvD_BwE&hvadid=558208650145&hvdev=c&hvlocphy=1001541&hvnetw=g&hvqmt=b&hvrand=968924929994917407&hvtargid=kwd-12552409574&hydadcr=23493_13477088&keywords=pro+git&qid=1659981508&sr=8-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)
  
- ➡️ Git: Você precisa aprender hoje **Maicon Santos**
+ ➡️ [Maicon Santos - Git: Você precisa aprender hoje](https://www.amazon.com.br/GIT-Voc%C3%AA-precisa-aprender-hoje-ebook/dp/B08CRBTQL2/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2N7LPOEDON7JN&keywords=Git%3A+Voc%C3%AA+precisa+aprender+hoje+Maicon+Santos&qid=1659981583&sprefix=git+voc%C3%AA+precisa+aprender+hoje+maicon+santos%2Caps%2C195&sr=8-1)
  
  ➡️ Guia rápido Git e Github **Jorge Brayer**
  
