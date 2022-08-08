@@ -201,8 +201,11 @@ _Caso o emoji não funcione no Markdowm_
 > #### **Referênciar alguém**
 > Exemplo: Analisando o documento [#Manual do Markdown para GitHub](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf) que foi indicado pelo usuário 
 
+> _Não consegui fazer como o exemplo do [@GustavoGuanabara](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)_
+> 🤝 Se você conseguir, deixa um comentário pra eu aprender também 😊
 
-> em construção 
+
+> Em construção ... 
 
 
 
