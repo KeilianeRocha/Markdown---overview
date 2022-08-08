@@ -79,6 +79,25 @@
 * 2. Teste 4 ```(* depois do Número)``` (Com espaço)
 5. Teste 5
 
+* **Lista com marcadores**
+
+* Teste
+* Teste 2
+* Teste 3
+* Teste 4
+* Teste 5
+
+```* txt``` (Com espaço)
+
+* **Lista com marcadores sub-item
+
+* Teste
+* Teste 2
+* Teste 3
+   * Teste 4 ```(três espaços depois do Txt)```
+* Teste 5
+
+
 
 
 
