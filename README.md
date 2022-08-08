@@ -38,7 +38,7 @@
 
 ```***``` (Sem espaço)
 
-* #### Níveis de txt
+* #### Níveis de Texto
 
 > # Nível 1
 
@@ -64,7 +64,7 @@
 
 ```###### txt``` (Com espaço)
 
-* #### **Lista numerada**
+* #### **Lista Numerada**
 
 1. Teste
 2. Teste 2
@@ -74,7 +74,7 @@
 
 ```Número. txt``` (Com espaço)
 
-* #### **Linha numera sub-item
+* #### **Linha Numerada com Sub item
 
 1. Teste
    1. Teste 2 ```(três espaços depois do Número)```
@@ -82,7 +82,7 @@
 * 2. Teste 4 ```(* depois do Número)``` (Com espaço)
 5. Teste 5
 
-* #### **Lista com marcadores**
+* #### **Lista com Marcadores**
 
 * Teste 1
 * Teste 2
@@ -92,7 +92,7 @@
 
 ```* txt``` (Com espaço)
 
-* #### **Lista com marcadores sub-item**
+* #### **Lista com Marcadores Sub item**
 
 * Teste 1
 * Teste 2
@@ -100,7 +100,7 @@
    * Teste 4 ```(três espaços depois do Txt)```
 * Teste 5
 
-* #### **Lista com marcadores**
+* #### **Lista com Marcadores**
 
 - Teste 1
 - Teste 2
@@ -110,7 +110,7 @@
 - 
  ```- txt``` (Com espaço)
 
-* #### **Lista com marcadores sub-item**
+* #### **Lista com Marcadores Sub item**
 
 - Teste 1
 - Teste 2
@@ -118,7 +118,7 @@
    - Teste 4 ```(três espaços depois do Txt)```
 - Teste 5
 
-* #### **Lista de tarefas**
+* #### **Lista de Tarefas**
 
 > [ ] Fazer tarefa (X)
 
@@ -177,7 +177,7 @@ if num %2 == 0:
 
 ```Use três ` quebre a linha e digite o código depois, quebre a linha novamente e adicione mais três` ```
 
-* #### **Adicionar emojis 🖖**
+* #### **Adicionar Emojis 🖖**
 
 ```txt :nome do emoji``` (Sem espaço)
 
