@@ -156,6 +156,10 @@
 * **Adicionando Comando**
 
  Comando `documento.getElementById()` da linguagem JavaScript
+ 
+ ```txt `comando` txt ``` (sem espaço)
+ 
+ 
 
 
 
