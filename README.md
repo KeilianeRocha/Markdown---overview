@@ -145,7 +145,7 @@
 
  Num | Nome | Nota 
  ---|---|---
- 1 | Keila | 10
+ 1 | Keila | 10,0
  
  ```Txt | Txt | Txt``` (Na linha abaixo)
  
