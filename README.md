@@ -74,15 +74,15 @@
 
 ```Número. txt``` (Com espaço)
 
-* #### **Linha Numerada com Sub item
+> #### **Linha Numerada com Sub item
 
-1. Teste
+1. Teste 1
    1. Teste 2 ```(três espaços depois do Número)```
 2. Teste 3
 * 2. Teste 4 ```(* depois do Número)``` (Com espaço)
 5. Teste 5
 
-* #### **Lista com Marcadores**
+> #### **Lista com Marcadores**
 
 * Teste 1
 * Teste 2
@@ -92,7 +92,7 @@
 
 ```* txt``` (Com espaço)
 
-* #### **Lista com Marcadores Sub item**
+> #### **Lista com Marcadores Sub item**
 
 * Teste 1
 * Teste 2
@@ -100,7 +100,7 @@
    * Teste 4 ```(três espaços depois do Txt)```
 * Teste 5
 
-* #### **Lista com Marcadores**
+> #### **Lista com Marcadores**
 
 - Teste 1
 - Teste 2
@@ -110,7 +110,7 @@
 - 
  ```- txt``` (Com espaço)
 
-* #### **Lista com Marcadores Sub item**
+> #### **Lista com Marcadores Sub item**
 
 - Teste 1
 - Teste 2
@@ -118,13 +118,13 @@
    - Teste 4 ```(três espaços depois do Txt)```
 - Teste 5
 
-* #### **Lista de Tarefas**
+> #### **Lista de Tarefas**
 
 > [ ] Fazer tarefa (X)
 
 ```- espaço [espaço] espaço txt```
 
-* #### **Tarefa Concluída**
+> #### **Tarefa Concluída**
 
 > [x] Fazer tarefa (X)
 
@@ -138,11 +138,10 @@
 > Nada é original
 
 
-
-* #### **Adicionar Imagens**
-
 ```> txt, quebra a linha e novamente > txt``` (Com espaço)
 
+
+* #### **Adicionar Imagens**
 
 ![KeilaAvatar](https://user-images.githubusercontent.com/109313933/183428275-9a32ea80-cb00-4798-9e55-3a705ee2c4af.gif)
 
@@ -159,7 +158,7 @@
 * #### **Criando Tabelas**
 
  Num | Nome | Nota 
- ---|---|---
+ ---|:---|---:
  1 | Keila | 10,00
  
  ```Txt | Txt | Txt``` (Na linha abaixo)
