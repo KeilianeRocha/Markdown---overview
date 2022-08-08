@@ -115,6 +115,20 @@
    - Teste 4 ```(três espaços depois do Txt)```
 - Teste 5
 
+* **Lista de tarefas**
+
+- [ ] Fazer tarefa (X)
+
+```- espaço [espaço] espaço txt``` (Com espaço)
+
+* **Tarefa Concluída**
+
+- [x] Fazer tarefa (X)
+
+```- espaço [X] espaço txt``` (Com espaço)
+
+
+
 
 
 
