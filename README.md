@@ -180,6 +180,11 @@ if num %2 == 0:
 
 ➡️ [Link para site com Lista de emojis completa](https://unicode.org/emoji/charts/full-emoji-list.html)
 
+_Caso o emoji não funcione no Markdowm_
+
+➡️ [Link para site com segunda opção](https://emojipedia.org/)
+
+``` Escolhe a categoria, na opão `Copy and paste emoji` você copia e e cola no local desejado``` (Sem espaço)
 
 
  
