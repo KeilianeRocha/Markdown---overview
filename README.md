@@ -130,7 +130,17 @@
 
 ```- espaço [X] espaço txt```
 
+> **Fazer a Ligação entre conteúdos**
+
+* Exemplo: Como **Austin Kleon** disse uma vez:
+> Comece copiando
+> 
+> Nada é original
+
 * #### **Adicionar Imagens**
+
+```> txt, quebra a linha e novamente > txt``` (Com espaço)
+
 
 ![KeilaAvatar](https://user-images.githubusercontent.com/109313933/183428275-9a32ea80-cb00-4798-9e55-3a705ee2c4af.gif)
 
