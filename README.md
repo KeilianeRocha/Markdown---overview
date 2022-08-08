@@ -141,6 +141,19 @@
 
 ```[txt](link)``` (sem espaço)
 
+* **Criando Tabelas**
+
+ Num | Nome | Nota 
+ ---|---|---
+ 1 | Keila | 10
+ 
+ ```Txt | Txt | Txt``` (Na linha abaixo)
+ 
+ ```---|---|---``` (sem espaço)
+ 
+ ```Txt | Txt | Txt``` (Com espaço)
+ 
+
 
 
 
