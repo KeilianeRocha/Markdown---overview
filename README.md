@@ -28,6 +28,16 @@
 
 ```**_ txt _**``` (**_Sem espaço_**)
 
+#### Linhas
+---
+
+```---``` (Linha abaixo do txt)
+***
+```***``` (Sem espaço)
+
+
+
+
 
 
 
