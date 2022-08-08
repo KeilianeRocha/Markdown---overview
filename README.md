@@ -193,6 +193,10 @@ _Caso o emoji não funcione no Markdowm_
 
 > Exemplo: Durante o Curso, usei o perfil do [@gafanhotos](https://github.com/gafanhotos) para exercitar as ações em Git e Github.
 
+``` txt [@id](link)``` (_Sem espaço_)
+> _Não consegui fazer como o exemplo do [@GustavoGuanabara](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)_
+> 🤝 Se você conseguir, deixa um comentário pra eu aprender também 😊
+
 * #### **Referênciar alguém**
 
 > em construção 
