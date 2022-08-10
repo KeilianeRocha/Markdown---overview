@@ -82,7 +82,7 @@
 
 * #### **Lista Numerada**
 
-1. Teste
+1. Teste 1
 2. Teste 2
 3. Teste 3
 4. Teste 4
@@ -123,7 +123,7 @@
 - Teste 3
 - Teste 4
 - Teste 5
-- 
+
  ```- txt``` (Com espaço)
 
 > #### **Lista com Marcadores Sub item**
@@ -237,7 +237,7 @@ _Caso o emoji não funcione no Markdowm_
 
 ➡️ [Link para site com segunda opção](https://emojipedia.org/)
 
-``` Escolhe a categoria, na opão `Copy and paste emoji` você copia e e cola no local desejado``` (Sem espaço)
+```Escolhe a categoria, na opão `Copy and paste emoji` você copia e e cola no local desejado``` (Sem espaço)
 
 > #### **Citações**
 
