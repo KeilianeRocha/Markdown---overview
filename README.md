@@ -95,7 +95,7 @@
 1. Teste 1
    1. Teste 2 ```(três espaços depois do Número)```
 2. Teste 3
-* 2. Teste 4 ```(* depois do Número)``` (Com espaço)
+ 2. Teste 4 ```(* depois do Número)``` (Com espaço)
 5. Teste 5
 
 > #### **Lista com Marcadores**
